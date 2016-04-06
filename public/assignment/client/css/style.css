@@ -1,0 +1,24 @@
+/*
+ * Style adjustments
+ */
+
+/* FORMS PAGE */
+/* Move down buttons in forms header to align with input field */
+.headerIconInputAlign{
+    margin-bottom: 0px;
+}
+
+/* FIELDS PAGE */
+/* Move down the labels in a form's fields */
+.extraTopPadding {
+    padding-top: 20px;
+}
+
+/* DIALOG BOXES */
+/* Move down labels for better spacing */
+.dialogBoxLabels{
+    margin-top: 15px;
+}
+.displayInDialog {
+    display: none;
+}

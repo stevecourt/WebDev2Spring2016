@@ -1,0 +1,50 @@
+/*
+ * Style adjustments
+ */
+
+/* DOMAIN PAGES */
+/* Allow text properties to wrap on small screens */
+.wrapInMobile{
+    white-space: normal !important;
+}
+
+/* Size inputs of type number */
+.mediumNumberInput{
+    width: 100px;
+}
+
+/* FIELDS PAGE */
+/* Move down first row position in a form's fields */
+.firstRowLabelInput{
+    padding-top: 10px;
+}
+
+/* Move down first row icons in a form's fields */
+.firstRowIcons {
+    padding-top: 43px;
+}
+
+/* Move down main row position in a form's fields */
+.mainRowLabelInput{
+    padding-top: 15px;
+}
+
+/* Move down main row icons in a form's fields */
+.mainRowIcons {
+    padding-top: 48px;
+}
+
+/* Move down the label for a check box or radio button cluster in a form's fields */
+.checkOrRadioClusterLabel {
+    padding-top: 20px;
+}
+
+/* Move up a check box or radio button cluster in a form's fields */
+.topCheckOrRadio {
+    margin-top: 0px;
+}
+
+/* Move down Add New Field icon to align with input field */
+.newFieldIconInputAlign{
+    position: relative; top: 33px;
+}
